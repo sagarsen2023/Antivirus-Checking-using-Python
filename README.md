@@ -26,6 +26,7 @@ Antivirus Checking Program is a Python-based tool designed for detecting malware
 2. It is easier to maintain.
 3. Time to time both the data_dict.json and the source code will be updated.
 4. Used Python dictionary for faster iteration.
+5. More updated version with more features of this version coming soon
 
 ## License
 
